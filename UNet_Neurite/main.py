@@ -51,7 +51,7 @@ model.compile(optimizer = adam_v2.Adam(lr = 1e-4), loss = 'binary_crossentropy',
 # setup callback function 
 early_stopping = EarlyStopping(patience=10, verbose=1)
 reduce_lr = ReduceLROnPlateau(factor=0.1, patience=5, min_lr=0.00001, verbose=1)
-model_checkpoint = ModelCheckpoint('DHM_model.hdf5', monitor='val_loss',verbose=1, save_best_only=True)
+model_checkpoint = ModelCheckpoint('DHM_Neurite.hdf5', monitor='val_loss',verbose=1, save_best_only=True)
 log_dir = "logs/fit/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 tensorboard_callback = TensorBoard(log_dir=log_dir)
 
