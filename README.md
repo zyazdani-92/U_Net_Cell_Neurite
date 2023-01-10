@@ -21,4 +21,4 @@ These pipelines are
 ## Dependencies
 Python 3.7, Tensorflow-gpu 1.15.0, Keras 2.3.1
 
-* For Mac M1/M2 user please follow this guidline: (How to Install TensorFlow GPU for Mac M1/M2 with Conda)[https://www.youtube.com/watch?v=5DgWvU0p2bk]
+* For Mac M1/M2 user please follow this guidline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=5DgWvU0p2bk)
