@@ -45,7 +45,7 @@ conda install --file requirements.txt
 python main.py
 ```
 
-5. Use the `DHM_Cell.hdf5` model and *Testing_Pipelines* to do cell body segmentation on test images.
+5. Use `DHM_Cell.hdf5` model and *Testing_Pipelines* to do cell body segmentation on test images.
 
 7. For neurite structure segmentation, repeat steps 4-5 once again about _UNet_Neurite_ folder. 
 
