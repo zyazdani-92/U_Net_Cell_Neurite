@@ -49,13 +49,19 @@ python main.py
 
 7. For neurite structure segmentation, repeat steps 4-5 once again about _UNet_Neurite_ folder. 
 
-8. ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+8.
+
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
+# Color Test Document
+
+## Second Heading
+
+This is a test to see how the colors work.
 - Add pipeline here to combine two models results.
 
 
