@@ -1,4 +1,12 @@
 # U-Net_DHM_PDHM
+
+* Cellpose_Manual Contains:
+1. **Cellpose.zip**: Images segmented automatically by [Cellpose](https://github.com/mouseland/cellpose).
+2.  **Manual.zip**: Manual anotation images.
+3.  **main_images.zip**: Real P-DHM and DHM 5X images.
+
+* Test images : _tif_ DHM and P-DHM images for testing `DHM_Cell.hdf5` in * Testing_Pipelines
+
 In this repository all notebooks and image pipeline that are used for U-Net are included.
 These pipelines are
   
