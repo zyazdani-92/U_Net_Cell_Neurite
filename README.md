@@ -49,7 +49,7 @@ python main.py
 
 7. For neurite structure segmentation, repeat steps 4-5 once again about _UNet_Neurite_ folder. 
 
-8. Combine two models mask images outputs to have structural connectivity of phase images.
+8. Combine two models prediction result for same image to have structural connectivity of phase images.
 
 
 
