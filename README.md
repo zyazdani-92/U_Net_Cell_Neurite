@@ -12,10 +12,6 @@ U-Net-Cell and U-Net-Neurite architecture are based on [DeepNeurite](https://git
 
 ### UNet_Cell
 
-..* Cellpose_Manual Contains:
-1. *Cellpose.zip*: Automatic segmentetaion mask images
-2.  *Manual.zip*: Manual anotation images
-3.  *main_images.zip*: Real P-DHM and DHM 5X images.
 
 ### UNet_Neurite
 In this repository all notebooks and image pipeline that are used for U-Net are included.
