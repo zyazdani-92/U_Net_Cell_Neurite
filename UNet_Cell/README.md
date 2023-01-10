@@ -7,6 +7,9 @@
     4. `Image_Augmentation.ipynb`: Pipeline for expanding images for training.
     
 ***
+* **Prediction_Samples:**  Output results of `DHM_Cell.hdf5` model.
+
+***
 
 * **Test images:**  DHM and P-DHM images for testing `DHM_Cell.hdf5` model.
 
