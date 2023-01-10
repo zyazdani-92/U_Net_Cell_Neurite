@@ -49,8 +49,15 @@ python main.py
 
 7. For neurite structure segmentation, repeat steps 4-5 once again about _UNet_Neurite_ folder. 
 
-8. - ![Add pipeline here to combine two models results.
-](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` 
+8. ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+- Add pipeline here to combine two models results.
+
 
 
 
