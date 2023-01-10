@@ -4,6 +4,7 @@
     1. _Cellpose.zip_: Images segmented automatically by [Cellpose](https://github.com/mouseland/cellpose).
     2.  _Manual.zip_: Manual anotation images.
     3. _main_images.zip_: Real P-DHM and DHM 5X images.
+    4. `Image_Augmentation.ipynb`: Pipeline for expanding images for training.
 
 * **Test images:**  DHM and P-DHM images for testing `DHM_Cell.hdf5` model.
 * **Testing_Pipelines:**
