@@ -34,16 +34,15 @@ conda activate U-DHM
 ```
 conda install --file requirements.txt
 ```
-* For Mac M1/M2 users please follow this guideline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=5DgWvU0p2bk)
+* For Mac M1/M2 users please follow this guideline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=5DgWvU0p2bk).
 
 4. run main.py
 
 ```
 python main.py
 ```
-### Results
 
-Use the trained models (`DHM_Cell.hdf5` and `DHM_Neurite.hdf5`) to do segmentation on test images.
+5. Use the trained models (`DHM_Cell.hdf5` and `DHM_Neurite.hdf5`) and *Testing_Pipelines* to do segmentation on test images.
 
 
 
