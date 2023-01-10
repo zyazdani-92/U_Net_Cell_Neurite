@@ -37,7 +37,9 @@ conda install --file requirements.txt
 ```
 * For Mac M1/M2 users please follow this guideline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=5DgWvU0p2bk).
 
-4. run main.py
+4. Navigate to UNet_Neurite or UNet_Cell
+
+6. run main.py
 
 ```
 python main.py
