@@ -1,4 +1,13 @@
 # U_Net_Cell_Neurite
+
+U-Net Cell and U-Net Neurite are deep learning models for identifying neurite structure and cell body in Digital Holographic Microscopy(DHM) phase images. The U-Net is a convolutional network architecture for fast and precise segmentation of images. 
+
+* [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+
+U-Net-Cell and U-Net-Neurite architecture are based on [DeepNeurite](https://github.com/khCygnal/DeepNeurite) U-Net model strcucture.
+
+![alt text](U-net(Neurite+Cell).png "Logo Title Text 1")
+
  ## DHM images semantic segmentation using U-Net
 ### UNet_Neurite
 In this repository all notebooks and image pipeline that are used for U-Net are included.
