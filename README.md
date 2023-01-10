@@ -27,8 +27,8 @@ Python 3.7, Tensorflow-gpu 1.15.0, Keras 2.3.1
 2. Create a virtual environment
 
 ```
-conda create -n U-DHM python=3.7
-conda activate U-DHM
+conda create -n UDHM python=3.7
+conda activate UDHM
 ```
 3. Install dependencies
 ```
