@@ -12,7 +12,7 @@ U-Net-Cell and U-Net-Neurite architecture are based on [DeepNeurite](https://git
 
 ### UNet_Cell
 
-A deep learning algorithm for cell segmentation from DHM and P-DHM phase images. 
+A deep learning algorithm for cell body segmentation from DHM and P-DHM phase images. 
 
 
 ### UNet_Neurite
