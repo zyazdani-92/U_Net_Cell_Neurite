@@ -37,15 +37,19 @@ conda install --file requirements.txt
 ```
 * For Mac M1/M2 users please follow this guideline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=5DgWvU0p2bk).
 
-4. Navigate to UNet_Neurite or UNet_Cell
+4. Navigate to _UNet_Cell_ folder
 
-6. run main.py
+6. run main.py 
 
 ```
 python main.py
 ```
 
-5. Use the trained models (`DHM_Cell.hdf5` and `DHM_Neurite.hdf5`) and *Testing_Pipelines* to do segmentation on test images.
+5. Use the `DHM_Cell.hdf5` model and *Testing_Pipelines* to do cell body segmentation on test images.
+
+7. For neurite structure segmentation, repeat steps 4-5 once again about _UNet_Neurite_ folder. 
+
+8. Combine two models mask images outputs to have structural connectivity of phase images.
 
 
 
