@@ -21,4 +21,30 @@ These pipelines are
 ## Dependencies
 Python 3.7, Tensorflow-gpu 1.15.0, Keras 2.3.1
 
-* For Mac M1/M2 user please follow this guidline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=5DgWvU0p2bk)
+## Installation
+
+1. Clone this repository
+2. Create a virtual environment
+
+```
+conda create -n U-DHM python=3.7
+conda activate U-DHM
+```
+3. Install dependencies
+```
+conda install --file requirements.txt
+```
+* For Mac M1/M2 users please follow this guideline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=5DgWvU0p2bk)
+
+4. run main.py
+
+```
+python main.py
+```
+### Results
+
+Use the trained models (`DHM_Cell.hdf5` and `DHM_Neurite.hdf5`) to do segmentation on test images.
+
+
+
+
