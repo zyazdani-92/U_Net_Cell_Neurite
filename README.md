@@ -51,7 +51,9 @@ python main.py
 
 8. ~~Add pipeline here to combine two models results...~~ 
 
-![alt text](input.png "Logo Title Text 1")
-![alt text](output.png "Logo Title Text 1")
+![](input.png "Logo Title Text 1")![](output.png "Logo Title Text 1")
 
 
+
+
+<img src="input.png" width="425"/> <img src="output.png" width="425"/> 
