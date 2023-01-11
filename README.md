@@ -49,11 +49,6 @@ python main.py
 
 7. For neurite structure segmentation, repeat steps 4-5 once again about _UNet_Neurite_ folder. 
 
-8. ~~Add pipeline here to combine two models results...~~ 
-
-![](input.png "Logo Title Text 1")![](output.png "Logo Title Text 1")
-
-
-
+8. Combine trained models results, the output is statisfactory.
 
 <img src="input.png" width="425"/> <img src="output.png" width="425"/> 
