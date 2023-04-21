@@ -51,4 +51,4 @@ python main.py
 
 8. Combine trained models results, the output is statisfactory.
 
-<img src="input.png" width="425"/> <img src="output.png" width="425"/> 
+<img src="prediction results.png" width="425"/> 
