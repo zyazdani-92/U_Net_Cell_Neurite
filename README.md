@@ -35,7 +35,7 @@ conda activate UDHM
 ```
 conda install --file requirements.txt
 ```
-* For Mac M1/M2 users please follow this guideline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=5DgWvU0p2bk).
+* For Mac M1/M2 users please follow this guideline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=w2qlou7n7MA).
 
 4. Navigate to _UNet_Cell_ folder
 
