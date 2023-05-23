@@ -7,7 +7,7 @@
 
     
 ***
-* **Prediction_Samples:**  Output results of `DHM_Cell.hdf5` model.
+* **Prediction samples:**  Output results of `DHM_Cell.hdf5` model.
 
 ***
 
