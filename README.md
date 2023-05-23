@@ -42,8 +42,7 @@ conda install --file requirements.txt
 
 6. To train the `DHM_cell.hdf5` and save the model's weights, run the ```Unet_cell_body_model.ipynb ``` Jupyter notebook.
 
-
-7. For neurite segmentation, repeat steps 4-6 once again about _UNet_Neurite_ folder. 
+7. For neurite segmentation, repeat steps 4-6 once again for the "UNet_Neurite" folder.
 
 8. Use `DHM_Cell.hdf5` and 'DHM_Neurite.hdf5' models and *Img2mask_pipeline_update23May.ipynb
 * to do cell body segmentation on the image _Test_img_ folder.
