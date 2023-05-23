@@ -11,4 +11,4 @@
 
 
 * **Other_Pipelines:**
-* Under process!
+Currently under development.
