@@ -17,17 +17,16 @@
 
 
 * **Testing_Pipelines:**
-    1. `Test_UNet_Cell_patchify.ipynb`: Using [patchify](https://pypi.org/project/patchify/) module to create patches with the size of `[128,128]` from phase image as input to the `DHM_Cell.hdf5`. The model outputs (prediction rsults) are with the size of `[128,128]`. By adopting `unpatchify` function all patches merge together to reach the actual size of input image. It is suggested to use the below pipeline for patch processing.
-    2. `Test_UNet_empatches.ipynb`: Using [EMPatches](https://pypi.org/project/empatches/) algorithm to create automatically patches with the size of `[128,128]`. Overlaps between patches can be set, larger value gives more patches. Indices of patches saves and will be used to combine all patches after prediction with differnt overlapping modes, `mode = ['avg','max','min','overwrite']`, which gives a single image that has the same size as the input image.
+    1. Using [EMPatches](https://pypi.org/project/empatches/) algorithm to create automatically patches with the size of `[128,128]`. Overlaps between patches can be set, larger value gives more patches. Indices of patches saves and will be used to combine all patches after prediction with differnt overlapping modes, `mode = ['avg','max','min','overwrite']`, which gives a single image that has the same size as the input image.
 
 ***
 
 
-* **Train_img_128** : Contains two zip files (_img_aug.zip_ and _mask_aug.zip_) of phase images  with the size of `[128,128]`, used in `main.py` for training U-Net.
+* **Training dataset** :(/Volumes/DATA/DHM 1082/yaza3022/Different ages phase signal/U-Net pipelines/unet_cell_master/data/train/), Contains two files (_img_ and _lbl_) of phase images  with the size of `[128,128]`, used in `trainUnet_Cellbody.ipynb` for training U-Net.
   
 ***
 
 
- * **Val_img_128** : Contains two zip files (_img_aug.zip_ and _mask_aug.zip_) of phase images  with the size of `[128,128]`, used in `main.py` as validation data for U-Net.
+ * **Validation dataset** :(/Volumes/DATA/DHM 1082/yaza3022/Different ages phase signal/U-Net pipelines/unet_cell_master/data/val) Contains two zip files (_img_ and _lbl_) of phase images  with the size of `[128,128]`, used in `trainUnet_Cellbody.ipynb` as validation data for U-Net.
 
 
