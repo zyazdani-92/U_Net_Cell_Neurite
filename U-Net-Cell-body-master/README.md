@@ -7,11 +7,11 @@
 
     
 ***
-* **Prediction samples:**  Output results of `DHM_Cell.hdf5` model.
+* **
 
 ***
 
-* **Test images:**  DHM and P-DHM images for testing `DHM_Cell.hdf5` model.
+* **
 
 ***
 
