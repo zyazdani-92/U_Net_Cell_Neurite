@@ -38,7 +38,7 @@ conda install --file requirements.txt
 
 4. Navigate to _U-Net-Cell-body-master_ folder
 
-5. Download training and validation sets from _SINUS_, put it in _data_ folder in _U-Net-Cell-body-master_ folder
+5. Download the training and validation sets from _SINUS_ and place them in the "data" folder within the "U-Net-Cell-body-master" folder.
 
 6. To train the `DHM_cell.hdf5` and save the model's weights, run the ```Unet_cell_body_model.ipynb ``` Jupyter notebook.
 
