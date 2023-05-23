@@ -5,7 +5,7 @@ U-Net Cell and U-Net Neurite are deep learning models for identifying neurite st
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 
 U-Net-Cell and U-Net-Neurite architecture are based on [DeepNeurite](https://github.com/khCygnal/DeepNeurite) U-Net model strcucture.
-
+![alt text](automatic-save-501-2023_04_10_21_52_25-2723-2.pdf "Logo Title Text 1")
 ![alt text](U-net(Neurite+Cell).png "Logo Title Text 1")
 
 ## Overview
