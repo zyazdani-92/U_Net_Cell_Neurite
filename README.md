@@ -40,7 +40,8 @@ conda install --file requirements.txt
 
 5. Download training and validation sets from _SINUS_, put it in _data_ folder in _U-Net-Cell-body-master_ folder
 
-6. run ```Unet_cell_body_model.ipynb ``` jupyter notebook to train _DHM_cell.hdf5_ and save model's weight.
+6. To train the `DHM_cell.hdf5` and save the model's weights, run the ```Unet_cell_body_model.ipynb ``` Jupyter notebook.
+
 
 7. For neurite segmentation, repeat steps 4-6 once again about _UNet_Neurite_ folder. 
 
