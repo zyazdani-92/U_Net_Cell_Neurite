@@ -48,4 +48,4 @@ conda install --file requirements.txt
 
 9. Combine trained models results, the output is statisfactory.
 
-<img src="masks_roc.svg" width="1200"/> 
+<img src="roc.svg" width="1200"/> 
