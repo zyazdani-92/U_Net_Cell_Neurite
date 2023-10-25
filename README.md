@@ -36,7 +36,7 @@ conda install --file requirements.txt
 ```
 * For Mac M1/M2 users please follow this guideline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=w2qlou7n7MA).
 
-4. Navigate to _U-Net-Cell-body-master_ folder
+4. Navigate to _U-Net-training-pipeline_ folder
 
 5. Download the training and validation sets from _SINUS_ and place them in the "data" folder within the "U-Net-Cell-body-master" folder.
 
