@@ -25,9 +25,7 @@
     
      
 ***
-* **Prediction samples:**  Output results of `DHM_Neurite.hdf5` model.
 
-***
 
 
 
