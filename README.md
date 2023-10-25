@@ -4,7 +4,7 @@ U-Net Cell body master and U-Net Neurite master are deep learning models for ide
 
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 
-U-Net Cell body master and U-Net Neurite master architecture are based an implementation of the [U-Net model for Keras](https://github.com/pietz/unet-keras) U-Net model strcucture.
+U-Net Cell body master and U-Net Neurite master architecture are based an implementation of the [U-Net model for Keras](https://github.com/pietz/unet-keras).
 ![alt text](U-Net.svg "Logo Title Text 1")
 
 ## Overview
