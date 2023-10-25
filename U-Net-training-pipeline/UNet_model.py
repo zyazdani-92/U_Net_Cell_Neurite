@@ -1,9 +1,8 @@
-'''U-Net model for keras, written by:
+'''
+U-Net model for keras, written by:
 Paul-Louis Pröve
 https://github.com/pietz/unet-keras
-
 Modified by: Zahra Yazdani
-
 '''
 
 from tensorflow.keras.layers import Input
