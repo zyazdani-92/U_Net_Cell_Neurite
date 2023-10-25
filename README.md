@@ -38,13 +38,13 @@ conda install --file requirements.txt
 
 4. Navigate to _U-Net-training-pipeline_ folder
 
-5. Download the training and validation sets from _SINUS_ and place them in the "data" folder within the "U-Net-Cell-body-master" folder.
+5. Download the training and validation sets from _SINUS_ and place them in the "data" folder within the "U-Net-training-pipeline" folder.
 
-6. To train the `DHM_cell.hdf5` and save the model's weights, run the ```Unet_cell_body_model.ipynb ``` Jupyter notebook.
+6. To train the `DHM_cell_body.hdf5` and save the model's weights, run the ```trainUNet.ipynb ``` Jupyter notebook.
 
-7. For neurite segmentation, repeat steps 4-6 once again for the "UNet_Neurite" folder.
+7. For neurite segmentation, repeat steps 4-6 once again.
 
-8. Use the `DHM_Cell.hdf5`  and 'DHM_Neurite.hdf5' models with the "Img2mask_pipeline_update23May.ipynb" notebook to perform cell body and neurite segmentation on the image in the "Test_img" folder.
+8. Use the `DHM_cell_body.hdf5`  and 'DHM_Neurite.hdf5' models with the "Img2mask_pipeline_update23May.ipynb" notebook to perform cell body and neurite segmentation on the image in the "Test_img" folder.
 
 9. Combine trained models results, the output is statisfactory.
 
