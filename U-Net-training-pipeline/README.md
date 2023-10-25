@@ -1,4 +1,4 @@
-# UNet_Cell
+# U-Net_cell_body
 
  * **Cellpose and manual segmentation and main DHM images :**
     1. _/Volumes/DATA/DHM\ 1082/yaza3022/Different ages phase signal/U-Net pipelines/unet_cell_master/img/Cellpose_: Images segmented automatically by [Cellpose](https://github.com/mouseland/cellpose).
