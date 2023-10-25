@@ -1,4 +1,4 @@
-# U-Net_cell_body
+# U-Net_cell_body training and validation samples
 
  * **Cellpose and manual segmentation and main DHM images :**
     1. _/Volumes/DATA/DHM\ 1082/yaza3022/Different ages phase signal/U-Net pipelines/unet_cell_master/img/Cellpose_: Images segmented automatically by [Cellpose](https://github.com/mouseland/cellpose).
@@ -17,7 +17,7 @@
 
 
 
-# U-Net_Neurit
+# U-Net_Neurit training and validation samples
 
  * **Mask_DHM:**
     1. _/Volumes/DATA/DHM 1082/yaza3022/Different ages phase signal/U-Net pipelines/unet-neurite-master/data/My DHM images for U-Net-Neurite /DHM_img_: 5X DHM images with the size of `[800,800]`.
