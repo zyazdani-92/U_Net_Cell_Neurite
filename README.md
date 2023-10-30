@@ -36,6 +36,9 @@ conda install --file requirements.txt
 ```
 * For Mac M1/M2 users please follow this guideline: [How to Install TensorFlow GPU for Mac M1/M2 with Conda](https://www.youtube.com/watch?v=w2qlou7n7MA).
 
+ ***
+ ## Training 
+
 4. Navigate to _U-Net-training-pipeline_ folder
 
 5. Download the training and validation sets from _SINUS_ and place them in the "data" folder within the "U-Net-training-pipeline" folder.
@@ -43,9 +46,12 @@ conda install --file requirements.txt
 6. To train the `DHM_cell_body.hdf5` and save the model's weights, run the ```trainUNet.ipynb ``` Jupyter notebook.
 
 7. For neurite segmentation, repeat steps 4-6 once again.
+   ****
 
-8. Use the `DHM_cell_body.hdf5`  and `DHM_Neurite.hdf5` models with the `Img2map_pipeline.ipynb` notebook to perform cell body and neurite segmentation on the image in the _Test_img_ folder.
+   ## Brief Usage Guidelines
 
-9. Combine trained models results, the output is statisfactory.
+9. Use the `DHM_cell_body.hdf5`  and `DHM_Neurite.hdf5` models with the `Img2map_pipeline.ipynb` notebook to perform cell body and neurite segmentation on the image in the _Test_img_ folder.
+
+10. Combine trained models results, the output is statisfactory.
 
 <img src="roc.svg" width="1200"/> 
