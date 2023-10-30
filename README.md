@@ -46,11 +46,11 @@ conda install --file requirements.txt
 6. To train the `DHM_cell_body.hdf5` and save the model's weights, run the ```trainUNet.ipynb ``` Jupyter notebook.
 
 7. For neurite segmentation, repeat steps 4-6 once again.
-   ****
+****
 
-   ## Brief Usage Guidelines
+## Brief usage guidelines of trained models
 
-9. Use the `DHM_cell_body.hdf5`  and `DHM_Neurite.hdf5` models with the `Img2map_pipeline.ipynb` notebook to perform cell body and neurite segmentation on the image in the _Test_img_ folder.
+9. Use the `DHM_cell_body.hdf5`  and `DHM_Neurite.hdf5` models with the `Img2map_pipeline.ipynb` notebook in the prediction pipeline folder to perform cell body and neurite segmentation on the image in the _Test_img_ folder.
 
 10. Combine trained models results, the output is statisfactory.
 
