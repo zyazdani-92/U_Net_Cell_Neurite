@@ -1,4 +1,4 @@
-# U_Net_Cell_Neurite
+# UDHM-Cellbody-Neurite
  ## DHM images semantic segmentation using U-Net
 U-Net Cell body master and U-Net Neurite master are deep learning models for identifying neurite and cell body in Digital Holographic Microscopy(DHM) phase images. The two U-Net models are a convolutional 2D network architecture for fast and precise segmentation of images. 
 
