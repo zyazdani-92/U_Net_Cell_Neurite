@@ -70,7 +70,7 @@ Github at [https://github.com/zyazdani-92/UDHM-Cellbody-Neurite](https://github.
 ***
 
 ## Thanks
-* [Maxime Moreaud](https://www.ifpenergiesnouvelles.com/page/maxime-moreaud) who helped for improving the prediction result with his stochastic patch-wise prediction method.
+* [Maxime Moreaud](https://www.ifpenergiesnouvelles.com/page/maxime-moreaud) who contributed to enhancing the prediction results through his stochastic patch-wise prediction method.
 
 ***
 
