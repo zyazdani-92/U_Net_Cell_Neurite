@@ -58,5 +58,5 @@ conda install --file requirements.txt
 
 ***
 ## About
-This package is part of Ph.D. project realized by Zahra Yazdani and supervised by Patrick Desrosiers and Antoine Allard in Dynamica lab. Our work is a collaboration with Pierre Marquet  at the Laboratoire de recherche en neurophotonique et psychiatrie and is a part of big project of  Neuro-CERVO Alliance for Drug Discovery in Brain Diseases (NCADD) – an innovative collaborative approach to studying neurological disorders. Our work was supported by NCADD.
+This package is a component of a Ph.D. project conducted by Zahra Yazdani under the supervision of Patrick Desrosiers and Antoine Allard at the Dynamica lab. Our research is a collaborative effort with Pierre Marquet at the Laboratoire de recherche en neurophotonique et psychiatrie and is part of the larger project, the Neuro-CERVO Alliance for Drug Discovery in Brain Diseases (NCADD). NCADD represents an innovative collaborative approach to the study of neurological disorders. Our work has received support from NCADD.
 
