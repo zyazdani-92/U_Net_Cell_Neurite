@@ -44,7 +44,7 @@ conda install --file requirements.txt
 
 7. For neurite segmentation, repeat steps 4-6 once again.
 
-8. Use the `DHM_cell_body.hdf5`  and 'DHM_Neurite.hdf5' models with the "Img2mask_pipeline_update23May.ipynb" notebook to perform cell body and neurite segmentation on the image in the "Test_img" folder.
+8. Use the `DHM_cell_body.hdf5`  and `DHM_Neurite.hdf5` models with the `Img2map_pipeline.ipynb` notebook to perform cell body and neurite segmentation on the image in the _Test_img_ folder.
 
 9. Combine trained models results, the output is statisfactory.
 
