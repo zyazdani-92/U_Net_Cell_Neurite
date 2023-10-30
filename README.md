@@ -55,3 +55,8 @@ conda install --file requirements.txt
 10. Combine trained models results, the output is statisfactory.
 
 <img src="roc.svg" width="1200"/> 
+
+***
+## About
+This package is part of Ph.D. project realized by Zahra Yazdani and supervised by Patrick Desrosiers and Antoine Allard in Dynamica lab. Our work is a collaboration with Pierre Marquet  at the Laboratoire de recherche en neurophotonique et psychiatrie and is a part of big project of  Neuro-CERVO Alliance for Drug Discovery in Brain Diseases (NCADD) – an innovative collaborative approach to studying neurological disorders. Our work was supported by NCADD.
+
